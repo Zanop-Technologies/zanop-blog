@@ -1,0 +1,44 @@
+title: "Zanop Docs"
+description: "Official Docs for Zanop."
+author: "John Adman"
+
+url: "https://zanop-technologies.github.io"
+base-url: "/zanop-doc"
+
+theme: jekyll-theme-architect
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown: 
+  input: GFM
+  syntax_highlighter: rouge
+
+# nav
+header_pages:
+  - index.md 
+  - about.md 
+  - getting-started.md
+  - downloads.md
+  - kernel.md
+  - desktop-os.md
+  - ecmxs.md
+  - scriptsuft.md
+  - contributing.md
+  - contributors.md
+  - contact.md
+
+permalinks: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# excluding
+exclude: 
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
