@@ -1,6 +1,6 @@
-# Zanop Docs
+# Zanop DevBlog
 
-Official documentation for **Zanop OS**, the operating system family built by [Zanop Technologies](https://zanop-technologies.cc.cd).
+Official news for **Zanop OS**, the operating system family built by [Zanop Technologies](https://zanop-technologies.cc.cd).
 
 ## What is Zanop OS?
 
